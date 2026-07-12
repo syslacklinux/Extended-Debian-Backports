@@ -1,8 +1,8 @@
 <img width="846" height="224" alt="Screenshot From 2026-07-12 18-26-56" src="https://github.com/user-attachments/assets/94b92acb-a68e-40f0-b285-b30720853eb5" />
 
 # Extended Debian Backports
-This is a Extended Backports for Debian for example changing Debian 11 kernel and backports with Debian 13 kernel and backports
-This also Works in Debian 12 11 and lower to get a latest kernel
+This is a Extended Backports for Debian for example changing Debian 11 Backports kernel and packages with Debian 13 Backports kernel and packages
+This also Works in Debian 12 11 and lower to get a latest kernel and packages in previous releases
 
 To get it
 
