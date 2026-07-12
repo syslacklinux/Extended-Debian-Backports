@@ -24,3 +24,6 @@ run sudo apt update && sudo apt upgrade -y -t stable-backports
 If oldstable backports sudo apt update && sudo apt upgrade -y -t oldstable-backports
 if oldoldstable backports sudo apt update && sudo apt upgrade -y -t oldoldstable-backports
 Then sudo apt autoremove then reboot
+
+# The Backstory
+When i try to add backports in Debian 11 but i accidentally use oldstable-backports then got Kernel 6.12 Backports from Debian 12 which is cause me to change oldstable-backport to stable-backports because i playing with debian backports then Got Kernel 7.0 From Debian 13 Backports
